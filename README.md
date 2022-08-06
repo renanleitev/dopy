@@ -27,7 +27,7 @@ You can also autostart Pydo with Windows, but it's recommend to run after your s
 
 ## Installation/Configuration
 
-1. Download the zip file ("Pydo.zip"), extract and execute the "Pydo.exe" app located in Pydo/dist.
+1. Download the rar file ("Pydo.rar") on [Releases](https://github.com/renanleitev/pydo/releases), extract and execute the "Pydo.exe" app located in Pydo/dist.
 2. Optional: If you have Python installed, just run the "Pydo.py" script located in the main folder.
 3. Follow the instructions on the screen, it will ask about what you want to open (files, folders, documents, musics, videos, programs...).
 4. After the setup, close the app and reopen to start the automatization.
@@ -79,7 +79,7 @@ Você também pode iniciar automaticamente o Pydo com o Windows, mas é recomend
 
 ## Instalação/Configuração
 
-1. Baixe o arquivo zip ("Pydo.zip"), extraia e execute o aplicativo "Pydo.exe" localizado em Pydo/dist.
+1. Baixe o arquivo rar ("Pydo.rar") em [Releases](https://github.com/renanleitev/pydo/releases), extraia e execute o aplicativo "Pydo.exe" localizado em Pydo/dist.
 2. Opcional: Se você tiver o Python instalado, basta executar o script "Pydo.py" localizado na pasta principal.
 3. Siga as instruções na tela, ele perguntará sobre o que você deseja abrir (arquivos, pastas, documentos, músicas, vídeos, programas...).
 4. Após a configuração, feche o aplicativo e reabra para iniciar a automatização.
