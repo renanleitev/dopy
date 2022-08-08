@@ -42,7 +42,7 @@ You can also autostart Dopy with Windows, but it's recommend to run after your s
 ## Roadmap
 
 1. <s>Add an option to autostart browser tabs, while opening other applications, files and folders.</s> DONE!
-2. Add an option to autostart browser tabs, input information (login and password) and close the tab.
+2. Add an option to autostart browser tabs, input information (login and password) and access your account.
 3. Add an option to autostart a file (docx, xlsx, csv), input information (text, image or link), save and close the file.
 4. Add an option to autostart a file (docx, xlsx, csv), copy information (text, image or link) and send that to email.
 5. Add a GUI (user interface), with PyQt or Tkinter.
@@ -94,7 +94,7 @@ Você também pode iniciar automaticamente o Dopy com o Windows, mas é recomend
 ## Próximas atualizações
 
 1. <s>Adicionar uma opção para iniciar automaticamente as guias do navegador, enquanto abre outros aplicativos, arquivos e pastas.</s> FEITO!
-2. Adicionar uma opção para iniciar automaticamente as guias do navegador, inserir informações (login e senha) e fechar a guia.
+2. Adicionar uma opção para iniciar automaticamente as guias do navegador, inserir informações (login e senha) e acessar a sua conta.
 3. Adicionar uma opção para iniciar automaticamente um arquivo (docx, xlsx, csv), inserir informações (texto, imagem ou link), salvar e fechar o arquivo.
 4. Adicionar uma opção para iniciar automaticamente um arquivo (docx, xlsx, csv), copiar informações (texto, imagem ou link) e enviar para e-mail.
 5. Adicionar uma GUI (interface de usuário), com PyQt ou Tkinter.
