@@ -35,9 +35,10 @@ You can also autostart Dopy with Windows, but it's recommend to run after your s
 
 ## Changing the configuration file
 
-1. After the first run, a file called "listaprograma.txt" will be generated in Dopy/dist (it's your configuration file).
-2. To change the order of the events or even to change what will be opened, open "listaprograma.txt" and change the category (folder, music, documents) or the name of the program/file/folder.
-3. Optional: You can delete "listaprograma.txt" and open "Dopy.exe" again to generate another configuration file.
+1. After the first run, two files will be generated in Dopy/dist: "listaprograma.txt" (for programs) and "listasite.txt" (for websites).
+2. Programs: to change the order of events or even change what will be opened, open "listaprograma.txt" and change the category (folder, music, documents) or the name of the program/file/folder.
+3. Sites: open "listaprograma.txt", to change which browser will be opened, just change the browser name (leave "application:" text intact); to modify the order of the sites or even change the name of the site, change the name of the sites below the browser name.
+4. Optional: You can delete "listaprograma.txt" or "listasite.txt" and open "Dopy.exe" again to generate another configuration file.
 
 ## Roadmap
 
@@ -87,9 +88,10 @@ Você também pode iniciar automaticamente o Dopy com o Windows, mas é recomend
 
 ## Alterando o arquivo de configuração
 
-1. Após a primeira execução, um arquivo chamado "listaprograma.txt" será gerado em Dopy/dist (é seu arquivo de configuração).
-2. Para alterar a ordem dos eventos ou mesmo alterar o que será aberto, abra "listaprograma.txt" e altere a categoria (pasta, música, documentos) ou o nome do programa/arquivo/pasta.
-3. Opcional: Você pode excluir "listaprograma.txt" e abrir "Dopy.exe" novamente para gerar outro arquivo de configuração.
+1. Após a primeira execução, dois arquivos serão gerados em Dopy/dist: "listaprograma.txt" (para programas) e "listasite.txt" (para sites).
+2. Programas: para alterar a ordem dos eventos ou mesmo alterar o que será aberto, abra "listaprograma.txt" e altere a categoria (pasta, música, documentos) ou o nome do programa/arquivo/pasta.
+3. Sites: abra "listaprograma.txt", para alterar qual navegador será aberto, altere apenas o nome do navegador (deixe o texto "aplicativo:" intacto); para modificar a ordem dos sites ou mesmo alterar o nome do site, altere o nome dos sites abaixo do nome do navegador.
+4. Opcional: Você pode excluir "listaprograma.txt" ou "listasite.txt" e abrir "Dopy.exe" novamente para gerar outro arquivo de configuração.
 
 ## Próximas atualizações
 
