@@ -18,7 +18,7 @@ On the first launch, just inform what you want to open, in the desired order. Ne
 
 You can also autostart Dopy with Windows, but it's recommend to run after your system boots.
 
-**Note: Dopy is on an early stage of development, right now it can only autostart files, folders and applications.**
+**Note: Dopy is on an early stage of development, right now it can autostart files, folders and applications, as well open tabs on browser.**
 
 ## Requirements
 
@@ -71,7 +71,7 @@ Na primeira inicialização, basta informar o que deseja abrir, na ordem desejad
 
 Você também pode iniciar automaticamente o Dopy com o Windows, mas é recomendável executar após a inicialização do sistema.
 
-**Observação: Dopy está em estágio inicial de desenvolvimento, neste momento só pode iniciar automaticamente arquivos, pastas e aplicativos.**
+**Observação: Dopy está em estágio inicial de desenvolvimento, neste momento pode iniciar automaticamente arquivos, pastas e aplicativos, bem como abrir abas no navegador.**
 
 ## Requisitos
 
